@@ -94,9 +94,9 @@ No necesita macros ni complementos.
 
 📎 Archivos incluidos
 
-📊 Dashboard_Ventas.xlsx
+📊 Dashboard_Ventas_Internacionales_2016.xlsx
 
-🗃️ Datos_brutos.csv
+🗃️ Datos_brutos_100000_Sales_Records.csv
 
 🧽 Limpieza_y_transformacion.xlsx
 
